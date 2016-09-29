@@ -1,3 +1,7 @@
 # Source Code for Screeps
 
-TEAM SCRUBS 2
+TEAM SCRUBS:
+Fred
+Will
+Bruno
+Nic
