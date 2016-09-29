@@ -1,3 +1,3 @@
-# Code for Screeps
+# Source Code for Screeps
 
 TEAM SCRUBS 2
