@@ -1,3 +1,3 @@
 # Code for Screeps
 
-TEAM SCRUBS
+TEAM SCRUBS 2
